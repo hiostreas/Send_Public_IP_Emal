@@ -8,7 +8,7 @@ fromaddr = 'astrodreamer18@gmail.com'
 toaddrs  = 'astrodreamer18@gmail.com'
 # Credentials (if needed)
 username = 'astrodreamer18'
-password = 'experto18'
+password = ''
 
 # The actual mail send
 time_counter = 0;
